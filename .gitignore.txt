@@ -1,4 +1,8 @@
-datasets/
 __pycache__/
 *.log
 *.zip
+*.tar.gz
+.DS_Store
+Deliverables/__pycache__/
+Deliverables/*.ipynb_checkpoints/
+Deliverables/Dataset Livrable 2/
