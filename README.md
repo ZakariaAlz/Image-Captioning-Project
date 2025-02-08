@@ -73,7 +73,7 @@ During the technical presentation, a secondary dataset was provided to test the 
 
 ## 🚀 How to Run the Project
  ### 1. 📥 Clone the Repository: 
-   git clone https://github.com/yourusername/image-captioning-deep-learning.git
+   git clone https://github.com/ZakariaAlz/Image-Captioning-Project.git 
    cd image-captioning-deep-learning
 
  ### 2. 📦 Install Dependencies
