@@ -102,9 +102,9 @@ Generated Caption
 Example: 🐈 A cat sitting on a couch.
 
 ### 🤝 Contributors
- 👨‍💻 Zakaria ALIZOUAOUI: Model development and evaluation.
- 🔍 Yacine BABACI: Dataset preprocessing and pipeline optimization.
- 📊 Ali MAHDJOUB: Integration and visualizations.
+ 👨‍💻 Zakaria ALIZOUAOUI: Model development and evaluation. <br> 
+ 🔍 Yacine BABACI: Dataset preprocessing and pipeline optimization. <br>
+ 📊 Ali MAHDJOUB: Integration and visualizations. <br>
 
 ##📜 License
  This project is licensed under the MIT License.
